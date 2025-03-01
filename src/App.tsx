@@ -104,8 +104,9 @@ function App() {
               </p>
               <p className="text-lg md:text-xl text-gray-700">
                 Every detail, from decor to coordination, is handled with care.
-                So you can RELAX and get that candid picture of you walking
-                towards the stage, while everybody looks at you in awe. 💖
+                So you can RELAX and get that perfect, candid shot—your
+                partner’s eyes lighting up as you take those first steps down
+                the aisle, surrounded by your loved ones... 💖
               </p>
             </div>
           </div>
@@ -148,9 +149,7 @@ function App() {
                 <Users size={28} className="text-black" />
               </div>
               <h3 className="text-xl font-medium mb-2">Proven Success</h3>
-              <p className="text-gray-700">
-                Over 200 happy couples planned in Gloucestershire.
-              </p>
+              <p className="text-gray-700">Over 200 happy couples in the UK.</p>
             </div>
 
             <div className="bg-[#ebd2cd] bg-opacity-20 p-6 rounded-lg text-center hover:shadow-lg transition-all duration-300">
@@ -159,7 +158,8 @@ function App() {
               </div>
               <h3 className="text-xl font-medium mb-2">Stress-Free Process</h3>
               <p className="text-gray-700">
-                We handle everything, so you don't have to.
+                Step by Step guidance to make sure everthing is tailored to your
+                liking.
               </p>
             </div>
           </div>
@@ -179,8 +179,8 @@ function App() {
                 <div className="text-sm text-gray-500">Tammy Jackson, 2022</div>
               </div>
               <p className="text-lg text-gray-700 mb-4">
-                "All our guests all commented on how beautiful our venue looked.
-                If you are thinking of booking these guys, don't hesitate as you
+                "All our guests commented on how beautiful our venue looked. If
+                you are thinking of booking these guys, don't hesitate as you
                 will not be disappointed. Punctual, friendly & approachable"
               </p>
             </div>
@@ -241,8 +241,7 @@ function App() {
                 FREE Gloucestershire Vendor Guide
               </h3>
               <p className="text-gray-700">
-                Includes top vendors, best deals & a comprehensive planning
-                checklist.
+                Includes top vendors, best deals & recommendations.
               </p>
             </div>
 
@@ -282,7 +281,7 @@ function App() {
               </h2>
               <div className="bg-[#ebd2cd] bg-opacity-10 p-6 rounded-lg">
                 <h3 className="text-2xl font-medium mb-4">
-                  Wedding Planning Services
+                  Decor &amp; Planning Services
                 </h3>
                 <p className="text-lg mb-4">
                   Ranging from <span className="font-bold">£750 - £3000</span>
@@ -378,8 +377,8 @@ function App() {
                       You Relax While We Bring Your Dream to Life
                     </h3>
                     <p className="text-gray-700">
-                      We handle everything! You focus on enjoying your special
-                      day.
+                      We handle everything! You can focus on enjoying your
+                      special day.
                     </p>
                   </div>
                 </div>

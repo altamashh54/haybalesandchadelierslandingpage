@@ -21,15 +21,14 @@ function App() {
         <div
           className="absolute inset-0 bg-cover bg-center w-full"
           style={{
-            backgroundImage:
-              "url('https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80')",
+            backgroundImage: "url('/images/heroimage.webp')",
             filter: "brightness(0.7)",
           }}
         ></div>
         <div className="relative container mx-auto px-6 md:px-8 pt-4 md:pt-6">
           <div className="flex items-center">
             <img
-              src="/images/logo.png"
+              src="/images/logo.webp"
               alt="Haybales & Chandeliers Logo"
               className="h-12 md:h-16"
             />
@@ -74,7 +73,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/IMG_9768.jpeg"
+                    src="/images/IMG_9768.webp"
                     alt="Wedding Setup"
                     className="w-full h-auto object-cover"
                   />
@@ -85,7 +84,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/IMG_0206.jpeg"
+                    src="/images/IMG_0206.webp"
                     alt="Wedding Decoration"
                     className="w-full h-auto object-cover"
                   />
@@ -421,17 +420,19 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
               <img
-                src="/images/IMG_0172.jpg"
+                src="/images/IMG_0172.webp"
                 alt="Wedding Table Setup"
                 className="w-full h-64 object-cover"
+                loading="lazy"
               />
             </div>
 
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
               <img
-                src="/images/image2beautful.jpg"
+                src="/images/image2beautfiul.webp"
                 alt="Flowers and Chairs"
                 className="w-full h-64 object-cover"
+                loading="lazy"
               />
             </div>
           </div>
@@ -683,9 +684,10 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <img
-                src="/images/logo.png"
+                src="/images/logo.webp"
                 alt="Haybales & Chandeliers Logo"
                 className="h-12 mb-4"
+                loading="lazy"
               />
               <p className="text-sm text-gray-400">
                 Over 200 Dream Weddings Brought to Life.

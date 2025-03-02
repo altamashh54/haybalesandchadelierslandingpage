@@ -100,7 +100,7 @@ function App() {
               </h2>
               <p className="text-lg md:text-xl text-gray-700 mb-4">
                 From intimate ceremonies to GRAND celebrations, we've made DREAM
-                weddings to life. ✨
+                weddings come to life. ✨
               </p>
               <p className="text-lg md:text-xl text-gray-700">
                 Every detail, from decor to coordination, is handled with care.

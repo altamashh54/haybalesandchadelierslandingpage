@@ -229,7 +229,7 @@ function App() {
                 FREE Wedding Planning Session
               </h3>
               <p className="text-gray-700">
-                A full hour of personalized planning with our expert team.
+                A Full Hour of Personalized Planning to understand your vision.
               </p>
             </div>
 

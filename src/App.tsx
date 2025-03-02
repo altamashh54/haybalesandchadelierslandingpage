@@ -40,7 +40,7 @@ function App() {
             Tag)
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl text-white mb-6 md:mb-8 max-w-2xl">
-            Let's plan your perfect wedding—for free.
+            Let's plan your perfect wedding.
           </p>
           <div className="flex flex-col items-center">
             <a
@@ -48,11 +48,11 @@ function App() {
               className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
               <Phone size={24} className="mr-3" />
-              Call Now to Book Your Planning Session
+              Call Now to Book a Free Planning Session
             </a>
             <p className="text-white font-medium bg-black bg-opacity-70 px-4 py-2 rounded-full">
               <Clock size={16} className="inline mr-2" />
-              Only 5 Free Spots Left!
+              Only 5 Spots Left!
             </p>
           </div>
         </div>

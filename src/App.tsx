@@ -96,11 +96,11 @@ function App() {
             {/* What We Do */}
             <div className="flex flex-col justify-center order-2 md:order-2">
               <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6">
-                What We Do
+                How we've helped brides like you...
               </h2>
               <p className="text-lg md:text-xl text-gray-700 mb-4">
-                From intimate ceremonies to GRAND celebrations, we've helped
-                brides bring their DREAM weddings to life. ✨
+                From intimate ceremonies to GRAND celebrations, we've made DREAM
+                weddings to life. ✨
               </p>
               <p className="text-lg md:text-xl text-gray-700">
                 Every detail, from decor to coordination, is handled with care.

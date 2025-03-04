@@ -80,11 +80,55 @@ function App() {
                   <div className="h-6"></div>
                 </div>
                 <div
+                  className="bg-white p-3 shadow-md rounded-sm transform rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
+                  style={{ maxWidth: "220px" }}
+                >
+                  <img
+                    src="/images/alsoanotherimage.webp"
+                    alt="Wedding Setup"
+                    className="w-full h-auto object-cover"
+                  />
+                  <div className="h-6"></div>
+                </div>
+                <div
                   className="bg-white p-3 shadow-md rounded-sm transform -rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
                   style={{ maxWidth: "220px" }}
                 >
                   <img
                     src="/images/IMG_0206.webp"
+                    alt="Wedding Decoration"
+                    className="w-full h-auto object-cover"
+                  />
+                  <div className="h-6"></div>
+                </div>
+                <div
+                  className="bg-white p-3 shadow-md rounded-sm transform -rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
+                  style={{ maxWidth: "220px" }}
+                >
+                  <img
+                    src="/images/guesswhatantoher.webp"
+                    alt="Wedding Decoration"
+                    className="w-full h-auto object-cover"
+                  />
+                  <div className="h-6"></div>
+                </div>
+                <div
+                  className="bg-white p-3 shadow-md rounded-sm transform -rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
+                  style={{ maxWidth: "220px" }}
+                >
+                  <img
+                    src="/images/blurrychairs.webp"
+                    alt="Wedding Decoration"
+                    className="w-full h-auto object-cover"
+                  />
+                  <div className="h-6"></div>
+                </div>
+                <div
+                  className="bg-white p-3 shadow-md rounded-sm transform -rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
+                  style={{ maxWidth: "220px" }}
+                >
+                  <img
+                    src="/images/anothherimage.webp"
                     alt="Wedding Decoration"
                     className="w-full h-auto object-cover"
                   />

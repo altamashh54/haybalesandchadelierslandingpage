@@ -36,8 +36,8 @@ function App() {
         </div>
         <div className="relative container mx-auto px-6 md:px-8 py-16 md:py-24 lg:py-32 flex flex-col items-center text-center min-h-[90vh] md:min-h-0 justify-center">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-white mb-4 md:mb-6 max-w-4xl">
-            Your Vision Brought to Life – Without the Stress (or the Huge Price
-            Tag)
+            Your vision brought to life – without the stress (or the huge price
+            tag)
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl text-white mb-6 md:mb-8 max-w-2xl">
             Let's plan your perfect wedding.
@@ -48,7 +48,7 @@ function App() {
               className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
               <Phone size={24} className="mr-3" />
-              Call Now to Book a Free Planning Session
+              Call now to book a free planning session
             </a>
             <p className="text-white font-medium bg-black bg-opacity-70 px-4 py-2 rounded-full">
               <Clock size={16} className="inline mr-2" />
@@ -65,7 +65,7 @@ function App() {
             {/* Our Previous Work */}
             <div className="order-1 md:order-1">
               <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6">
-                Our Previous Work
+                Our previous work
               </h2>
               <div className="flex flex-wrap justify-center gap-6">
                 <div
@@ -117,10 +117,10 @@ function App() {
       <section className="bg-[#ebd2cd] bg-opacity-10 py-16">
         <div className="container mx-auto px-6 md:px-8">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-3">
-            Why Over 200 Couples in the UK Recommend Us
+            Why over 200 couples in the UK recommend Us
           </h2>
           <p className="text-xl text-center mb-12">
-            (& Why <em>Brides</em> Specially Love Us)
+            (& Why <em>brides</em> specially Love Us)
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
@@ -128,7 +128,7 @@ function App() {
               <div className="bg-[#ebd2cd] w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-4">
                 <Coffee size={28} className="text-black" />
               </div>
-              <h3 className="text-xl font-medium mb-2">Real Human Support</h3>
+              <h3 className="text-xl font-medium mb-2">Real human support</h3>
               <p className="text-gray-700">
                 Personal touch, not a big corporate service.
               </p>
@@ -138,7 +138,7 @@ function App() {
               <div className="bg-[#ebd2cd] w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-4">
                 <DollarSign size={28} className="text-black" />
               </div>
-              <h3 className="text-xl font-medium mb-2">Transparent Pricing</h3>
+              <h3 className="text-xl font-medium mb-2">Transparent pricing</h3>
               <p className="text-gray-700">
                 No hidden fees, full clarity upfront.
               </p>
@@ -148,7 +148,7 @@ function App() {
               <div className="bg-[#ebd2cd] w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-4">
                 <Users size={28} className="text-black" />
               </div>
-              <h3 className="text-xl font-medium mb-2">Proven Success</h3>
+              <h3 className="text-xl font-medium mb-2">Proven success</h3>
               <p className="text-gray-700">Over 200 happy couples in the UK.</p>
             </div>
 
@@ -156,7 +156,7 @@ function App() {
               <div className="bg-[#ebd2cd] w-16 h-16 mx-auto rounded-full flex items-center justify-center mb-4">
                 <Coffee size={28} className="text-black" />
               </div>
-              <h3 className="text-xl font-medium mb-2">Stress-Free Process</h3>
+              <h3 className="text-xl font-medium mb-2">Stress-free process</h3>
               <p className="text-gray-700">
                 Step by Step guidance to make sure everthing is tailored to your
                 liking.
@@ -229,7 +229,7 @@ function App() {
                 FREE Wedding Planning Session
               </h3>
               <p className="text-gray-700">
-                A Full Hour of Personalized Planning to understand your vision.
+                A full hour of personalized planning to understand your vision.
               </p>
             </div>
 
@@ -265,7 +265,7 @@ function App() {
               className="bg-black hover:bg-opacity-80 text-white text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
               <Phone size={20} className="mr-3" />
-              Call Now to Claim Your Free Session!
+              Call now to book your free session!
             </a>
           </div>
         </div>
@@ -277,11 +277,11 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
               <h2 className="text-3xl font-serif font-bold mb-8">
-                Transparent Pricing
+                Transparent pricing
               </h2>
               <div className="bg-[#ebd2cd] bg-opacity-10 p-6 rounded-lg">
                 <h3 className="text-2xl font-medium mb-4">
-                  Decor &amp; Planning Services
+                  Decor &amp; planning Services
                 </h3>
                 <p className="text-lg mb-4">
                   Ranging from <span className="font-bold">£750 - £3000</span>
@@ -392,14 +392,14 @@ function App() {
       <section className="bg-black py-12">
         <div className="container mx-auto px-6 md:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-white mb-6">
-            Ready to Start Planning Your Dream Wedding?
+            Ready to start planning your dream wedding?
           </h2>
           <a
             href="tel:+447368203447"
             className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
           >
             <Phone size={20} className="mr-3" />
-            Call Now for Your Free Consultation
+            Call now for your free consultation
           </a>
         </div>
       </section>
@@ -408,7 +408,7 @@ function App() {
       <section className="bg-[#ebd2cd] bg-opacity-20 py-16">
         <div className="container mx-auto px-6 md:px-8">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-4">
-            Beautiful Weddings Need Beautiful Details
+            Beautiful weddings need beautiful details
           </h2>
           <p className="text-center text-gray-700 max-w-3xl mx-auto mb-12">
             Planning a wedding is stressful, but finding the perfect decor
@@ -505,7 +505,7 @@ function App() {
                     size={18}
                     className="text-black mr-2 mt-1 flex-shrink-0"
                   />
-                  <span>2 Hours Full Sized Magic Mirror for £175</span>
+                  <span>2 Hours full sized magic mirror for £175</span>
                 </li>
               </ul>
               <div className="text-center mb-6">
@@ -631,7 +631,7 @@ function App() {
                     className="text-[#ebd2cd] mr-2 mt-1 flex-shrink-0"
                   />
                   <span>
-                    Additional 2 Hours Full Sized Magic Mirror for £175
+                    Additional 2 hours full sized magic mirror for £175
                   </span>
                 </li>
               </ul>
@@ -656,10 +656,10 @@ function App() {
       <section className="bg-[#ebd2cd] py-16">
         <div className="container mx-auto px-6 md:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6">
-            Book Your Free Wedding Planning Session
+            Book your free wedding planning session
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Take the First Step to Bring Your Vision to Life{" "}
+            Take the first step to bring your vision to life{" "}
           </p>
           <div className="flex flex-col items-center">
             <a
@@ -671,7 +671,7 @@ function App() {
             </a>
             <p className="font-medium text-black">
               <Clock size={18} className="inline mr-2" />
-              Only 5 Free Spots Left – Don't Miss Out!
+              Only 5 Free Spots Left – Don't miss out!
             </p>
           </div>
         </div>

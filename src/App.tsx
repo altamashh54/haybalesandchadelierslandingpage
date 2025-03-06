@@ -73,7 +73,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/IMG_9768.webp"
+                    src="/images/previouswork10.webp"
                     alt="Wedding Setup"
                     className="w-full h-auto object-cover"
                   />
@@ -84,7 +84,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/alsoanotherimage.webp"
+                    src="/images/previouswork4.webp"
                     alt="Wedding Setup"
                     className="w-full h-auto object-cover"
                   />
@@ -95,7 +95,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/IMG_0206.webp"
+                    src="/images/previouswork5.webp"
                     alt="Wedding Decoration"
                     className="w-full h-auto object-cover"
                   />
@@ -106,7 +106,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/guesswhatantoher.webp"
+                    src="/images/previouswork6.webp"
                     alt="Wedding Decoration"
                     className="w-full h-auto object-cover"
                   />
@@ -117,18 +117,7 @@ function App() {
                   style={{ maxWidth: "220px" }}
                 >
                   <img
-                    src="/images/blurrychairs.webp"
-                    alt="Wedding Decoration"
-                    className="w-full h-auto object-cover"
-                  />
-                  <div className="h-6"></div>
-                </div>
-                <div
-                  className="bg-white p-3 shadow-md rounded-sm transform -rotate-1 transition-all duration-300 hover:rotate-0 hover:shadow-lg"
-                  style={{ maxWidth: "220px" }}
-                >
-                  <img
-                    src="/images/anothherimage.webp"
+                    src="/images/previouswork9.webp"
                     alt="Wedding Decoration"
                     className="w-full h-auto object-cover"
                   />

@@ -48,7 +48,7 @@ function App() {
               className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
               <Phone size={24} className="mr-3" />
-              Call now to book a free planning session
+              Call Now to Secure your Free Planning Session
             </a>
             <p className="text-white font-medium bg-black bg-opacity-70 px-4 py-2 rounded-full">
               <Clock size={16} className="inline mr-2" />
@@ -150,7 +150,7 @@ function App() {
       <section className="bg-[#ebd2cd] bg-opacity-10 py-16">
         <div className="container mx-auto px-6 md:px-8">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-3">
-            Why over 200 couples in the UK recommend Us
+            Why 200+ UK Couples Recommend Us...
           </h2>
           <p className="text-xl text-center mb-12">
             (& Why <em>brides</em> specially Love Us)
@@ -191,8 +191,8 @@ function App() {
               </div>
               <h3 className="text-xl font-medium mb-2">Stress-free process</h3>
               <p className="text-gray-700">
-                Step by Step guidance to make sure everthing is tailored to your
-                liking.
+                Step by Step guidance to make sure everything is tailored to
+                your liking.
               </p>
             </div>
           </div>

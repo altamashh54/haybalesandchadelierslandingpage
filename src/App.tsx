@@ -41,7 +41,7 @@ function App() {
           </h1>
           <div className="flex flex-col items-center">
             <a
-              href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+              href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
               target="_blank"
               className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
@@ -300,7 +300,7 @@ function App() {
 
           <div className="text-center">
             <a
-              href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+              href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
               target="_blank"
               className="bg-black hover:bg-opacity-80 text-white text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
@@ -435,7 +435,7 @@ function App() {
             Ready to start planning your dream wedding?
           </h2>
           <a
-            href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+            href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
             target="_blank"
             className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
           >
@@ -554,7 +554,7 @@ function App() {
               </div>
               <div className="text-center">
                 <a
-                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
+                  href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
                   target="_blank"
                   className="bg-black text-white px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >
@@ -682,7 +682,7 @@ function App() {
               </div>
               <div className="text-center">
                 <a
-                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
+                  href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
                   target="_blank"
                   className="bg-[#ebd2cd] text-black px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >
@@ -706,7 +706,7 @@ function App() {
           </p>
           <div className="flex flex-col items-center">
             <a
-              href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+              href="https://wa.me/+44 7368 203447?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
               target="_blank"
               className="bg-black hover:bg-opacity-80 text-white text-xl font-medium px-10 py-5 rounded-full inline-flex items-center mb-6 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >

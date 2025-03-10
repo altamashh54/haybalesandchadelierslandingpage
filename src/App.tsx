@@ -554,7 +554,7 @@ function App() {
               </div>
               <div className="text-center">
                 <a
-                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
                   target="_blank"
                   className="bg-black text-white px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >
@@ -682,7 +682,7 @@ function App() {
               </div>
               <div className="text-center">
                 <a
-                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20planning%20services."
+                  href="https://wa.me/YOURNUMBER?text=I'm%20interested%20in%20your%20wedding%20desore%20packages."
                   target="_blank"
                   className="bg-[#ebd2cd] text-black px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >

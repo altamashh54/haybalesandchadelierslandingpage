@@ -1,4 +1,6 @@
 import React from "react";
+import { FaWhatsapp } from "react-icons/fa";
+
 import {
   Heart,
   Phone,
@@ -35,7 +37,7 @@ function App() {
           </div>
         </div>
         <div className="relative container mx-auto px-6 md:px-8 py-16 md:py-24 lg:py-32 flex flex-col items-center text-center min-h-[90vh] md:min-h-0 justify-center">
-          <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold text-white mb-4 md:mb-6 max-w-4xl">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold text-white mt-14 md:mt-8 mb-4 md:mb-6 max-w-4xl">
             Your vision brought to life – without the stress (or the huge price
             tag)
           </h1>
@@ -44,16 +46,16 @@ function App() {
               href="https://api.whatsapp.com/send?phone=447368203447&text=I'm%20interested%20in%20your%20wedding%20planning%20services."
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
+              className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-base md:text-lg font-medium px-6 py-3 md:px-8 md:py-4 rounded-full flex items-center mt-20 md:mt-16 mb-4 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
-              <Phone size={24} className="mr-3" />
+              <FaWhatsapp size={24} className="mr-3" />
               Book Your Free Planning Session Now!
             </a>
             <p className="text-white font-medium bg-black bg-opacity-70 px-4 py-2 rounded-full">
               <Clock size={16} className="inline mr-2" />
               Only 5 Spots Left!
             </p>
-            <ul className="text-[10px] md:text-xs text-white opacity-80 mt-4 space-y-1 text-center max-w-xs">
+            <ul className="text-[11px] md:text-sm text-white opacity-80 mt-4 space-y-1 text-center w-full max-w-none leading-tight">
               <li>
                 • Personalized guidance, tailored for your dream wedding💍
               </li>
@@ -306,7 +308,7 @@ function App() {
               rel="noopener noreferrer"
               className="bg-black hover:bg-opacity-80 text-white text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
-              <Phone size={20} className="mr-3" />
+              <FaWhatsapp size={20} className="mr-3" />
               Contact Us
             </a>
           </div>
@@ -442,7 +444,7 @@ function App() {
             rel="noopener noreferrer"
             className="bg-[#ebd2cd] hover:bg-opacity-90 text-black text-lg font-medium px-8 py-4 rounded-full inline-flex items-center transform hover:scale-105 transition-all duration-300 shadow-lg"
           >
-            <Phone size={20} className="mr-3" />
+            <FaWhatsapp size={20} className="mr-3" />
             Contact Us
           </a>
         </div>
@@ -562,7 +564,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="bg-black text-white px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >
-                  <Phone size={18} className="mr-2" />
+                  <FaWhatsapp size={18} className="mr-2" />
                   Book Now
                 </a>
               </div>
@@ -691,7 +693,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="bg-[#ebd2cd] text-black px-6 py-3 rounded-full inline-flex items-center justify-center transform hover:scale-105 transition-all duration-300"
                 >
-                  <Phone size={18} className="mr-2" />
+                  <FaWhatsapp size={18} className="mr-2" />
                   Book Now
                 </a>
               </div>
@@ -716,7 +718,7 @@ function App() {
               rel="noopener noreferrer"
               className="bg-black hover:bg-opacity-80 text-white text-xl font-medium px-10 py-5 rounded-full inline-flex items-center mb-6 transform hover:scale-105 transition-all duration-300 shadow-lg"
             >
-              <Phone size={24} className="mr-3" />
+              <FaWhatsapp size={24} className="mr-3" />
               Contact Us Now
             </a>
             <p className="font-medium text-black">
@@ -793,7 +795,7 @@ function App() {
           href="tel:+447368203447"
           className="bg-[#ebd2cd] text-black w-16 h-16 rounded-full flex items-center justify-center shadow-lg transform hover:scale-105 transition-all duration-300"
         >
-          <Phone size={28} />
+          <FaWhatsapp size={28} />
         </a>
       </div>
     </div>
